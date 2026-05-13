@@ -1,0 +1,13 @@
+﻿product_id,category,brand,list_price,unit_cost
+PROD_0001,Electronics,TechVN,2500000,1750000
+PROD_0002,Electronics,TechVN,4800000,3360000
+PROD_0003,Electronics,SmartLife,890000,622000
+PROD_0004,Fashion,StyleVN,350000,175000
+PROD_0005,Fashion,StyleVN,520000,260000
+PROD_0006,Fashion,UrbanWear,280000,140000
+PROD_0007,Home & Living,HomeComfort,620000,372000
+PROD_0008,Home & Living,HomeComfort,1200000,720000
+PROD_0009,Beauty,GlowVN,480000,240000
+PROD_0010,Beauty,GlowVN,320000,160000
+PROD_0011,Sports,ActiveVN,750000,450000
+PROD_0012,Sports,ActiveVN,1100000,682000

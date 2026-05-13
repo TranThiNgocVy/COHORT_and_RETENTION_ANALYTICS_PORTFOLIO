@@ -1,0 +1,651 @@
+﻿customer_id,signup_date,region,segment,acquisition_channel
+CUST_0001,2024-07-25,TP.HCM,Regular,social_media
+CUST_0002,2025-04-16,TP.HCM,New,social_media
+CUST_0003,2025-12-25,Đà Nẵng,New,referral
+CUST_0004,2024-07-07,TP.HCM,Regular,organic
+CUST_0005,2025-10-10,Đà Nẵng,New,referral
+CUST_0006,2025-12-21,Cần Thơ,VIP,organic
+CUST_0007,2025-01-25,Hải Phòng,Regular,social_media
+CUST_0008,2025-05-01,Hà Nội,New,paid_search
+CUST_0009,2025-03-24,TP.HCM,New,paid_search
+CUST_0010,2025-08-12,TP.HCM,VIP,organic
+CUST_0011,2024-08-23,Đà Nẵng,New,paid_search
+CUST_0012,2025-08-24,TP.HCM,New,referral
+CUST_0013,2025-05-25,Hà Nội,Regular,email
+CUST_0014,2024-11-20,TP.HCM,Regular,organic
+CUST_0015,2025-06-11,Hà Nội,New,social_media
+CUST_0016,2025-08-18,TP.HCM,New,organic
+CUST_0017,2025-05-31,TP.HCM,Regular,organic
+CUST_0018,2025-08-14,TP.HCM,Regular,social_media
+CUST_0019,2025-02-26,TP.HCM,New,organic
+CUST_0020,2025-05-21,Hà Nội,New,social_media
+CUST_0021,2024-12-14,Đà Nẵng,New,organic
+CUST_0022,2025-10-26,TP.HCM,New,organic
+CUST_0023,2025-09-15,TP.HCM,VIP,social_media
+CUST_0024,2025-02-26,Cần Thơ,New,social_media
+CUST_0025,2024-07-31,Đà Nẵng,Regular,organic
+CUST_0026,2025-12-23,TP.HCM,New,organic
+CUST_0027,2025-01-11,Hà Nội,New,paid_search
+CUST_0028,2025-04-05,TP.HCM,Regular,organic
+CUST_0029,2025-06-18,TP.HCM,VIP,paid_search
+CUST_0030,2025-03-15,Hà Nội,Regular,organic
+CUST_0031,2025-10-06,TP.HCM,New,social_media
+CUST_0032,2025-09-20,TP.HCM,Regular,paid_search
+CUST_0033,2025-01-16,Hải Phòng,New,referral
+CUST_0034,2025-11-10,Đà Nẵng,VIP,email
+CUST_0035,2024-06-27,Đà Nẵng,Regular,organic
+CUST_0036,2025-07-26,Cần Thơ,Regular,paid_search
+CUST_0037,2025-11-18,TP.HCM,VIP,email
+CUST_0038,2025-03-24,TP.HCM,Regular,paid_search
+CUST_0039,2025-11-29,Đà Nẵng,New,organic
+CUST_0040,2025-09-02,Hà Nội,New,social_media
+CUST_0041,2025-09-15,TP.HCM,New,paid_search
+CUST_0042,2024-06-02,Hà Nội,New,organic
+CUST_0043,2024-06-11,Cần Thơ,Regular,social_media
+CUST_0044,2024-09-23,TP.HCM,New,social_media
+CUST_0045,2025-08-18,TP.HCM,Regular,organic
+CUST_0046,2025-09-01,TP.HCM,New,paid_search
+CUST_0047,2025-07-21,Đà Nẵng,New,social_media
+CUST_0048,2025-08-09,TP.HCM,Regular,social_media
+CUST_0049,2024-06-17,Đà Nẵng,New,social_media
+CUST_0050,2024-11-03,Cần Thơ,New,paid_search
+CUST_0051,2025-01-19,TP.HCM,Regular,organic
+CUST_0052,2025-01-25,Hải Phòng,New,paid_search
+CUST_0053,2024-12-29,Hà Nội,Regular,paid_search
+CUST_0054,2024-12-14,Cần Thơ,VIP,paid_search
+CUST_0055,2025-07-22,TP.HCM,Regular,organic
+CUST_0056,2024-06-08,TP.HCM,New,referral
+CUST_0057,2025-12-06,Hải Phòng,New,referral
+CUST_0058,2025-12-29,Hà Nội,New,social_media
+CUST_0059,2024-11-13,Hà Nội,Regular,email
+CUST_0060,2024-12-10,Đà Nẵng,VIP,social_media
+CUST_0061,2025-12-11,TP.HCM,VIP,organic
+CUST_0062,2025-02-01,TP.HCM,Regular,paid_search
+CUST_0063,2024-12-27,Hà Nội,New,email
+CUST_0064,2025-09-24,TP.HCM,New,paid_search
+CUST_0065,2024-06-24,TP.HCM,New,organic
+CUST_0066,2024-11-04,TP.HCM,VIP,paid_search
+CUST_0067,2025-05-30,TP.HCM,Regular,paid_search
+CUST_0068,2025-10-12,Đà Nẵng,New,paid_search
+CUST_0069,2025-12-15,Hà Nội,New,organic
+CUST_0070,2024-10-14,Đà Nẵng,VIP,paid_search
+CUST_0071,2024-09-24,TP.HCM,VIP,email
+CUST_0072,2025-09-02,Hà Nội,Regular,social_media
+CUST_0073,2025-06-03,Hà Nội,Regular,email
+CUST_0074,2024-10-17,TP.HCM,New,social_media
+CUST_0075,2025-04-20,Hải Phòng,Regular,paid_search
+CUST_0076,2024-08-27,TP.HCM,New,organic
+CUST_0077,2024-12-03,Hà Nội,New,organic
+CUST_0078,2025-06-12,Hà Nội,New,social_media
+CUST_0079,2025-01-27,TP.HCM,Regular,paid_search
+CUST_0080,2025-05-17,Hà Nội,New,paid_search
+CUST_0081,2025-03-24,Đà Nẵng,Regular,paid_search
+CUST_0082,2025-10-14,Hải Phòng,Regular,organic
+CUST_0083,2024-12-24,TP.HCM,Regular,email
+CUST_0084,2025-04-08,TP.HCM,New,paid_search
+CUST_0085,2024-12-29,Hải Phòng,Regular,organic
+CUST_0086,2024-08-16,TP.HCM,New,referral
+CUST_0087,2024-12-14,TP.HCM,New,organic
+CUST_0088,2025-02-10,TP.HCM,New,organic
+CUST_0089,2025-03-05,Đà Nẵng,New,paid_search
+CUST_0090,2024-09-14,Cần Thơ,Regular,referral
+CUST_0091,2024-09-19,TP.HCM,Regular,referral
+CUST_0092,2025-04-19,Hải Phòng,New,social_media
+CUST_0093,2024-11-13,TP.HCM,New,email
+CUST_0094,2024-08-02,Hà Nội,Regular,paid_search
+CUST_0095,2025-02-09,Hà Nội,Regular,email
+CUST_0096,2025-09-05,Cần Thơ,New,organic
+CUST_0097,2025-10-12,TP.HCM,New,organic
+CUST_0098,2025-08-05,Hà Nội,New,referral
+CUST_0099,2025-05-27,Đà Nẵng,New,email
+CUST_0100,2025-09-05,TP.HCM,VIP,social_media
+CUST_0101,2025-01-16,Đà Nẵng,VIP,referral
+CUST_0102,2025-04-15,Hà Nội,VIP,paid_search
+CUST_0103,2024-08-02,Cần Thơ,Regular,paid_search
+CUST_0104,2024-06-24,Hà Nội,New,organic
+CUST_0105,2024-07-08,Hải Phòng,New,email
+CUST_0106,2024-08-07,TP.HCM,Regular,paid_search
+CUST_0107,2025-05-04,Hà Nội,VIP,paid_search
+CUST_0108,2025-08-21,TP.HCM,Regular,email
+CUST_0109,2025-03-10,TP.HCM,Regular,organic
+CUST_0110,2025-12-10,Cần Thơ,New,social_media
+CUST_0111,2025-01-25,TP.HCM,Regular,social_media
+CUST_0112,2025-03-29,TP.HCM,Regular,social_media
+CUST_0113,2025-03-07,TP.HCM,VIP,social_media
+CUST_0114,2024-07-21,Hà Nội,New,organic
+CUST_0115,2025-07-21,TP.HCM,Regular,organic
+CUST_0116,2024-11-18,TP.HCM,New,social_media
+CUST_0117,2025-06-14,Hải Phòng,VIP,paid_search
+CUST_0118,2024-09-11,Hà Nội,New,social_media
+CUST_0119,2025-10-05,TP.HCM,VIP,social_media
+CUST_0120,2024-12-19,Hà Nội,New,organic
+CUST_0121,2024-07-09,TP.HCM,New,referral
+CUST_0122,2025-04-23,TP.HCM,Regular,referral
+CUST_0123,2024-06-27,Hà Nội,VIP,referral
+CUST_0124,2025-11-13,Hà Nội,New,paid_search
+CUST_0125,2024-10-03,Hà Nội,VIP,referral
+CUST_0126,2025-07-08,TP.HCM,Regular,social_media
+CUST_0127,2024-08-11,Đà Nẵng,New,paid_search
+CUST_0128,2025-01-01,TP.HCM,Regular,social_media
+CUST_0129,2025-03-12,Hà Nội,Regular,email
+CUST_0130,2025-06-28,Cần Thơ,VIP,paid_search
+CUST_0131,2025-08-19,TP.HCM,Regular,paid_search
+CUST_0132,2025-12-15,TP.HCM,New,paid_search
+CUST_0133,2025-09-13,TP.HCM,Regular,paid_search
+CUST_0134,2024-07-17,Đà Nẵng,New,email
+CUST_0135,2025-01-01,TP.HCM,Regular,paid_search
+CUST_0136,2024-10-27,TP.HCM,New,paid_search
+CUST_0137,2025-05-28,Hà Nội,Regular,organic
+CUST_0138,2024-08-12,TP.HCM,New,social_media
+CUST_0139,2025-10-06,Hà Nội,VIP,organic
+CUST_0140,2025-11-07,Hải Phòng,New,referral
+CUST_0141,2025-07-22,Hà Nội,New,paid_search
+CUST_0142,2024-12-31,TP.HCM,Regular,referral
+CUST_0143,2025-02-14,Hà Nội,New,paid_search
+CUST_0144,2024-10-12,Cần Thơ,Regular,organic
+CUST_0145,2024-10-13,Hà Nội,New,referral
+CUST_0146,2024-10-26,Hà Nội,New,paid_search
+CUST_0147,2024-11-04,TP.HCM,New,paid_search
+CUST_0148,2025-02-10,Đà Nẵng,New,organic
+CUST_0149,2024-07-30,Hải Phòng,Regular,paid_search
+CUST_0150,2024-12-12,Hà Nội,New,paid_search
+CUST_0151,2025-03-07,TP.HCM,New,paid_search
+CUST_0152,2024-11-14,TP.HCM,Regular,organic
+CUST_0153,2025-05-12,Hải Phòng,New,email
+CUST_0154,2025-04-15,Hà Nội,Regular,organic
+CUST_0155,2024-12-29,Hà Nội,New,paid_search
+CUST_0156,2025-12-07,Hà Nội,New,social_media
+CUST_0157,2024-07-13,Hà Nội,New,organic
+CUST_0158,2025-01-13,Cần Thơ,VIP,paid_search
+CUST_0159,2024-11-04,TP.HCM,VIP,paid_search
+CUST_0160,2024-10-18,Hà Nội,New,organic
+CUST_0161,2025-06-27,Hải Phòng,VIP,referral
+CUST_0162,2024-10-26,TP.HCM,New,paid_search
+CUST_0163,2024-12-17,Hà Nội,New,referral
+CUST_0164,2025-10-12,TP.HCM,New,email
+CUST_0165,2025-02-05,Hà Nội,New,organic
+CUST_0166,2025-08-04,Hải Phòng,Regular,paid_search
+CUST_0167,2024-11-01,TP.HCM,Regular,organic
+CUST_0168,2025-05-27,TP.HCM,VIP,paid_search
+CUST_0169,2025-07-08,TP.HCM,New,paid_search
+CUST_0170,2025-08-29,Hà Nội,Regular,social_media
+CUST_0171,2025-10-28,TP.HCM,New,paid_search
+CUST_0172,2025-09-02,Đà Nẵng,New,paid_search
+CUST_0173,2024-08-22,Đà Nẵng,New,organic
+CUST_0174,2025-09-06,Hải Phòng,New,organic
+CUST_0175,2025-12-19,Hà Nội,VIP,paid_search
+CUST_0176,2025-07-17,TP.HCM,Regular,organic
+CUST_0177,2024-07-29,Hà Nội,Regular,paid_search
+CUST_0178,2024-11-12,Hà Nội,New,paid_search
+CUST_0179,2025-10-06,Hà Nội,New,referral
+CUST_0180,2024-06-13,Hà Nội,New,email
+CUST_0181,2024-08-15,TP.HCM,New,paid_search
+CUST_0182,2025-03-16,TP.HCM,Regular,email
+CUST_0183,2025-06-05,Hà Nội,Regular,organic
+CUST_0184,2025-07-24,Đà Nẵng,New,paid_search
+CUST_0185,2024-08-20,TP.HCM,New,paid_search
+CUST_0186,2025-11-23,TP.HCM,New,organic
+CUST_0187,2024-09-27,TP.HCM,Regular,organic
+CUST_0188,2024-08-16,TP.HCM,VIP,organic
+CUST_0189,2024-07-21,Đà Nẵng,New,paid_search
+CUST_0190,2024-06-05,Cần Thơ,VIP,social_media
+CUST_0191,2024-09-05,Cần Thơ,VIP,social_media
+CUST_0192,2025-08-16,TP.HCM,New,organic
+CUST_0193,2025-02-12,Hà Nội,New,social_media
+CUST_0194,2025-06-10,TP.HCM,Regular,email
+CUST_0195,2024-12-23,TP.HCM,New,organic
+CUST_0196,2025-12-04,TP.HCM,New,organic
+CUST_0197,2025-08-15,Đà Nẵng,New,social_media
+CUST_0198,2025-05-04,Hà Nội,New,social_media
+CUST_0199,2025-10-08,Hà Nội,New,organic
+CUST_0200,2024-07-31,Hải Phòng,New,paid_search
+CUST_0201,2025-07-23,TP.HCM,VIP,paid_search
+CUST_0202,2024-07-16,Hà Nội,Regular,organic
+CUST_0203,2024-10-23,Đà Nẵng,VIP,social_media
+CUST_0204,2024-06-10,TP.HCM,New,organic
+CUST_0205,2025-09-18,TP.HCM,New,social_media
+CUST_0206,2024-09-18,Đà Nẵng,VIP,organic
+CUST_0207,2025-10-04,Đà Nẵng,Regular,referral
+CUST_0208,2024-08-28,Cần Thơ,Regular,paid_search
+CUST_0209,2024-07-01,Hải Phòng,New,organic
+CUST_0210,2025-03-25,TP.HCM,New,paid_search
+CUST_0211,2025-11-24,Cần Thơ,Regular,paid_search
+CUST_0212,2025-07-11,Hải Phòng,New,paid_search
+CUST_0213,2025-05-15,Cần Thơ,New,referral
+CUST_0214,2024-08-31,Hải Phòng,New,organic
+CUST_0215,2025-10-05,TP.HCM,New,organic
+CUST_0216,2025-08-12,TP.HCM,New,social_media
+CUST_0217,2025-09-15,Hà Nội,Regular,paid_search
+CUST_0218,2025-02-17,TP.HCM,Regular,email
+CUST_0219,2025-07-04,TP.HCM,New,social_media
+CUST_0220,2024-10-25,Hải Phòng,New,paid_search
+CUST_0221,2025-09-09,Hà Nội,New,paid_search
+CUST_0222,2025-10-17,Đà Nẵng,New,paid_search
+CUST_0223,2024-11-30,TP.HCM,Regular,social_media
+CUST_0224,2024-06-03,Hà Nội,New,paid_search
+CUST_0225,2024-08-12,TP.HCM,VIP,referral
+CUST_0226,2025-06-28,TP.HCM,Regular,organic
+CUST_0227,2025-09-17,Cần Thơ,Regular,referral
+CUST_0228,2025-06-13,TP.HCM,VIP,organic
+CUST_0229,2025-12-02,Cần Thơ,VIP,email
+CUST_0230,2024-07-07,Hà Nội,Regular,email
+CUST_0231,2025-10-08,Hải Phòng,Regular,social_media
+CUST_0232,2025-06-04,Hải Phòng,Regular,paid_search
+CUST_0233,2024-11-02,TP.HCM,Regular,social_media
+CUST_0234,2025-10-22,Hà Nội,New,paid_search
+CUST_0235,2025-07-27,Đà Nẵng,Regular,paid_search
+CUST_0236,2025-01-16,Hải Phòng,New,paid_search
+CUST_0237,2024-06-07,Hà Nội,Regular,paid_search
+CUST_0238,2025-11-02,Hà Nội,New,paid_search
+CUST_0239,2024-08-19,TP.HCM,Regular,paid_search
+CUST_0240,2025-10-30,Cần Thơ,New,organic
+CUST_0241,2024-06-28,TP.HCM,New,paid_search
+CUST_0242,2025-07-02,Hà Nội,New,email
+CUST_0243,2025-10-19,Cần Thơ,Regular,paid_search
+CUST_0244,2025-12-29,Hà Nội,Regular,paid_search
+CUST_0245,2025-06-17,Hải Phòng,Regular,social_media
+CUST_0246,2025-08-10,TP.HCM,Regular,paid_search
+CUST_0247,2025-12-30,Hà Nội,Regular,social_media
+CUST_0248,2024-06-23,Hải Phòng,New,organic
+CUST_0249,2025-10-24,TP.HCM,New,referral
+CUST_0250,2024-11-25,Đà Nẵng,Regular,paid_search
+CUST_0251,2024-06-22,Hà Nội,New,referral
+CUST_0252,2025-01-26,Hà Nội,New,paid_search
+CUST_0253,2025-03-31,Đà Nẵng,New,email
+CUST_0254,2025-06-07,TP.HCM,New,social_media
+CUST_0255,2024-06-27,TP.HCM,New,paid_search
+CUST_0256,2024-09-01,Hà Nội,New,paid_search
+CUST_0257,2025-04-24,TP.HCM,New,social_media
+CUST_0258,2024-12-19,TP.HCM,New,paid_search
+CUST_0259,2025-09-03,Hải Phòng,Regular,referral
+CUST_0260,2025-05-09,TP.HCM,New,paid_search
+CUST_0261,2025-06-08,Đà Nẵng,VIP,email
+CUST_0262,2025-02-11,TP.HCM,New,social_media
+CUST_0263,2024-09-12,TP.HCM,VIP,social_media
+CUST_0264,2025-09-26,Hà Nội,VIP,referral
+CUST_0265,2025-04-18,Hải Phòng,Regular,social_media
+CUST_0266,2025-08-09,TP.HCM,New,referral
+CUST_0267,2025-11-11,TP.HCM,New,paid_search
+CUST_0268,2025-01-24,TP.HCM,Regular,email
+CUST_0269,2025-11-14,Hà Nội,New,organic
+CUST_0270,2025-02-17,TP.HCM,New,email
+CUST_0271,2025-05-07,TP.HCM,Regular,referral
+CUST_0272,2025-05-18,Đà Nẵng,Regular,organic
+CUST_0273,2024-11-26,TP.HCM,Regular,social_media
+CUST_0274,2025-12-07,TP.HCM,Regular,organic
+CUST_0275,2024-11-11,TP.HCM,New,paid_search
+CUST_0276,2025-05-14,Đà Nẵng,Regular,social_media
+CUST_0277,2024-11-15,TP.HCM,Regular,paid_search
+CUST_0278,2025-02-17,TP.HCM,Regular,organic
+CUST_0279,2025-05-18,Đà Nẵng,VIP,email
+CUST_0280,2024-08-19,TP.HCM,Regular,social_media
+CUST_0281,2025-04-13,Hà Nội,Regular,organic
+CUST_0282,2024-10-11,Hải Phòng,VIP,email
+CUST_0283,2025-04-22,TP.HCM,Regular,referral
+CUST_0284,2025-07-25,Hải Phòng,VIP,email
+CUST_0285,2024-08-03,Hà Nội,VIP,paid_search
+CUST_0286,2025-07-13,TP.HCM,Regular,organic
+CUST_0287,2025-03-25,Hà Nội,New,organic
+CUST_0288,2025-04-15,TP.HCM,New,social_media
+CUST_0289,2025-05-17,Hà Nội,New,social_media
+CUST_0290,2025-03-03,TP.HCM,VIP,paid_search
+CUST_0291,2025-10-04,Hà Nội,Regular,social_media
+CUST_0292,2025-07-01,Cần Thơ,New,email
+CUST_0293,2025-11-13,TP.HCM,New,social_media
+CUST_0294,2024-09-23,Hà Nội,New,organic
+CUST_0295,2024-08-21,Hà Nội,VIP,social_media
+CUST_0296,2024-07-13,Hải Phòng,VIP,social_media
+CUST_0297,2024-08-14,TP.HCM,New,social_media
+CUST_0298,2024-07-04,TP.HCM,New,organic
+CUST_0299,2024-12-17,Hải Phòng,New,email
+CUST_0300,2025-09-21,TP.HCM,Regular,organic
+CUST_0301,2024-07-26,TP.HCM,New,paid_search
+CUST_0302,2025-10-26,Hà Nội,Regular,paid_search
+CUST_0303,2024-11-10,Hà Nội,New,paid_search
+CUST_0304,2024-11-21,Hà Nội,Regular,email
+CUST_0305,2025-12-04,TP.HCM,Regular,paid_search
+CUST_0306,2024-09-29,Hà Nội,New,paid_search
+CUST_0307,2025-04-05,TP.HCM,Regular,paid_search
+CUST_0308,2025-03-22,TP.HCM,New,email
+CUST_0309,2024-06-18,Đà Nẵng,VIP,paid_search
+CUST_0310,2025-12-01,TP.HCM,New,paid_search
+CUST_0311,2025-08-19,Đà Nẵng,New,paid_search
+CUST_0312,2025-07-21,Hà Nội,New,social_media
+CUST_0313,2024-06-02,Cần Thơ,New,organic
+CUST_0314,2025-02-28,TP.HCM,New,email
+CUST_0315,2024-10-09,Cần Thơ,New,social_media
+CUST_0316,2025-04-11,TP.HCM,New,organic
+CUST_0317,2025-06-25,Hà Nội,New,organic
+CUST_0318,2025-06-17,Hà Nội,Regular,organic
+CUST_0319,2025-06-20,TP.HCM,Regular,paid_search
+CUST_0320,2025-09-02,Đà Nẵng,New,paid_search
+CUST_0321,2025-03-10,Đà Nẵng,VIP,organic
+CUST_0322,2025-04-26,Cần Thơ,VIP,email
+CUST_0323,2025-10-12,Hà Nội,Regular,paid_search
+CUST_0324,2025-01-27,TP.HCM,New,social_media
+CUST_0325,2025-10-01,Hà Nội,New,organic
+CUST_0326,2025-10-14,Hà Nội,Regular,paid_search
+CUST_0327,2025-09-26,Hà Nội,New,paid_search
+CUST_0328,2025-11-19,Cần Thơ,New,organic
+CUST_0329,2024-06-08,Đà Nẵng,New,email
+CUST_0330,2025-02-06,Đà Nẵng,Regular,paid_search
+CUST_0331,2024-12-02,TP.HCM,Regular,referral
+CUST_0332,2024-10-07,Hà Nội,Regular,paid_search
+CUST_0333,2025-12-18,TP.HCM,Regular,paid_search
+CUST_0334,2025-09-04,TP.HCM,New,social_media
+CUST_0335,2025-03-17,Cần Thơ,New,paid_search
+CUST_0336,2025-05-30,Hà Nội,New,paid_search
+CUST_0337,2025-10-04,TP.HCM,Regular,social_media
+CUST_0338,2025-01-08,TP.HCM,Regular,social_media
+CUST_0339,2025-04-05,Đà Nẵng,Regular,paid_search
+CUST_0340,2025-06-24,Hà Nội,Regular,organic
+CUST_0341,2024-08-28,TP.HCM,Regular,social_media
+CUST_0342,2024-07-25,Hà Nội,New,organic
+CUST_0343,2025-02-28,Hà Nội,New,email
+CUST_0344,2025-09-15,Hải Phòng,VIP,paid_search
+CUST_0345,2025-06-21,Hải Phòng,New,organic
+CUST_0346,2025-04-13,Hải Phòng,New,referral
+CUST_0347,2025-06-24,Hà Nội,Regular,referral
+CUST_0348,2025-03-23,TP.HCM,Regular,organic
+CUST_0349,2025-07-27,Hà Nội,Regular,organic
+CUST_0350,2025-09-24,Hải Phòng,Regular,referral
+CUST_0351,2025-11-18,Đà Nẵng,New,organic
+CUST_0352,2025-06-20,TP.HCM,Regular,referral
+CUST_0353,2025-01-08,Cần Thơ,Regular,email
+CUST_0354,2024-12-19,Đà Nẵng,New,referral
+CUST_0355,2025-03-27,Hải Phòng,Regular,paid_search
+CUST_0356,2025-08-29,Hà Nội,VIP,organic
+CUST_0357,2025-06-04,TP.HCM,New,paid_search
+CUST_0358,2025-10-09,Hà Nội,New,organic
+CUST_0359,2024-08-10,Hải Phòng,Regular,social_media
+CUST_0360,2024-08-24,Đà Nẵng,Regular,social_media
+CUST_0361,2024-10-18,TP.HCM,New,organic
+CUST_0362,2024-12-19,Hà Nội,New,social_media
+CUST_0363,2025-09-21,Cần Thơ,VIP,referral
+CUST_0364,2025-03-19,TP.HCM,New,email
+CUST_0365,2025-09-02,TP.HCM,VIP,email
+CUST_0366,2025-04-07,Đà Nẵng,VIP,referral
+CUST_0367,2025-02-08,Hà Nội,New,email
+CUST_0368,2025-08-08,Cần Thơ,VIP,paid_search
+CUST_0369,2025-11-28,Cần Thơ,Regular,paid_search
+CUST_0370,2025-11-22,TP.HCM,New,email
+CUST_0371,2024-10-24,Đà Nẵng,Regular,organic
+CUST_0372,2025-12-11,TP.HCM,New,organic
+CUST_0373,2024-11-02,Hà Nội,Regular,email
+CUST_0374,2025-04-27,Hà Nội,Regular,organic
+CUST_0375,2024-06-06,Đà Nẵng,VIP,referral
+CUST_0376,2024-09-18,Hà Nội,New,paid_search
+CUST_0377,2024-08-11,Hà Nội,New,paid_search
+CUST_0378,2024-11-23,TP.HCM,New,paid_search
+CUST_0379,2024-06-12,Đà Nẵng,New,social_media
+CUST_0380,2025-11-12,TP.HCM,Regular,referral
+CUST_0381,2024-11-27,Hà Nội,New,social_media
+CUST_0382,2024-08-17,TP.HCM,Regular,social_media
+CUST_0383,2025-08-28,Hà Nội,Regular,social_media
+CUST_0384,2024-12-26,Hà Nội,Regular,paid_search
+CUST_0385,2025-12-12,TP.HCM,New,organic
+CUST_0386,2025-07-12,Hà Nội,VIP,social_media
+CUST_0387,2025-03-24,Hà Nội,New,email
+CUST_0388,2024-07-17,Hải Phòng,New,referral
+CUST_0389,2025-05-04,TP.HCM,New,organic
+CUST_0390,2025-10-11,TP.HCM,New,organic
+CUST_0391,2025-07-26,TP.HCM,Regular,organic
+CUST_0392,2025-08-13,Hà Nội,New,organic
+CUST_0393,2024-10-22,Hà Nội,New,social_media
+CUST_0394,2025-01-25,Hà Nội,New,paid_search
+CUST_0395,2025-10-25,TP.HCM,New,referral
+CUST_0396,2025-12-04,Hà Nội,VIP,social_media
+CUST_0397,2025-02-02,Hải Phòng,New,organic
+CUST_0398,2024-08-11,TP.HCM,Regular,paid_search
+CUST_0399,2024-07-24,TP.HCM,VIP,email
+CUST_0400,2024-12-02,Hà Nội,VIP,organic
+CUST_0401,2024-11-23,Hà Nội,Regular,paid_search
+CUST_0402,2024-09-18,TP.HCM,Regular,paid_search
+CUST_0403,2024-09-18,TP.HCM,VIP,referral
+CUST_0404,2025-12-17,TP.HCM,Regular,social_media
+CUST_0405,2025-09-11,Đà Nẵng,New,paid_search
+CUST_0406,2025-05-04,Hải Phòng,Regular,paid_search
+CUST_0407,2025-11-04,Hà Nội,New,social_media
+CUST_0408,2024-12-23,TP.HCM,VIP,paid_search
+CUST_0409,2024-06-08,TP.HCM,Regular,email
+CUST_0410,2025-01-15,TP.HCM,New,paid_search
+CUST_0411,2025-05-01,TP.HCM,New,paid_search
+CUST_0412,2025-06-19,Hà Nội,New,social_media
+CUST_0413,2024-06-05,Hà Nội,New,paid_search
+CUST_0414,2025-04-20,Hải Phòng,Regular,organic
+CUST_0415,2025-06-09,Đà Nẵng,New,organic
+CUST_0416,2024-11-07,Hà Nội,New,paid_search
+CUST_0417,2025-04-12,Cần Thơ,New,social_media
+CUST_0418,2025-09-17,Hà Nội,Regular,paid_search
+CUST_0419,2025-06-14,Cần Thơ,New,organic
+CUST_0420,2025-09-20,Hà Nội,VIP,paid_search
+CUST_0421,2025-10-06,TP.HCM,New,paid_search
+CUST_0422,2025-05-02,Hà Nội,New,social_media
+CUST_0423,2025-02-09,TP.HCM,Regular,paid_search
+CUST_0424,2025-11-07,TP.HCM,New,paid_search
+CUST_0425,2025-09-06,TP.HCM,New,social_media
+CUST_0426,2024-09-10,Hà Nội,New,organic
+CUST_0427,2024-07-27,Hà Nội,New,organic
+CUST_0428,2024-10-13,Đà Nẵng,New,social_media
+CUST_0429,2024-12-24,Cần Thơ,Regular,paid_search
+CUST_0430,2025-11-06,TP.HCM,Regular,organic
+CUST_0431,2025-10-24,Hải Phòng,New,social_media
+CUST_0432,2024-09-14,Hà Nội,VIP,email
+CUST_0433,2024-12-22,Đà Nẵng,Regular,social_media
+CUST_0434,2025-10-10,TP.HCM,Regular,organic
+CUST_0435,2025-02-10,Hà Nội,VIP,social_media
+CUST_0436,2024-09-04,TP.HCM,New,organic
+CUST_0437,2025-10-18,TP.HCM,New,social_media
+CUST_0438,2025-01-31,TP.HCM,Regular,paid_search
+CUST_0439,2025-09-26,TP.HCM,New,organic
+CUST_0440,2025-05-19,TP.HCM,New,organic
+CUST_0441,2024-10-15,Hà Nội,Regular,referral
+CUST_0442,2024-09-05,Đà Nẵng,New,email
+CUST_0443,2025-01-29,TP.HCM,New,paid_search
+CUST_0444,2024-07-25,Đà Nẵng,New,organic
+CUST_0445,2025-01-10,Hà Nội,VIP,paid_search
+CUST_0446,2024-07-09,TP.HCM,New,referral
+CUST_0447,2024-06-25,Đà Nẵng,Regular,organic
+CUST_0448,2025-06-20,Hà Nội,New,organic
+CUST_0449,2025-04-13,TP.HCM,New,organic
+CUST_0450,2024-06-06,TP.HCM,Regular,paid_search
+CUST_0451,2025-06-03,TP.HCM,New,social_media
+CUST_0452,2025-08-26,TP.HCM,Regular,organic
+CUST_0453,2025-12-30,TP.HCM,Regular,paid_search
+CUST_0454,2025-12-22,TP.HCM,New,organic
+CUST_0455,2025-11-11,Hà Nội,Regular,social_media
+CUST_0456,2025-06-06,Hải Phòng,New,paid_search
+CUST_0457,2025-06-30,TP.HCM,New,organic
+CUST_0458,2025-08-07,Hà Nội,New,paid_search
+CUST_0459,2024-06-09,Hà Nội,New,organic
+CUST_0460,2025-03-09,TP.HCM,New,organic
+CUST_0461,2024-08-24,Hải Phòng,New,social_media
+CUST_0462,2025-01-09,TP.HCM,New,referral
+CUST_0463,2025-03-21,Hà Nội,New,social_media
+CUST_0464,2025-09-18,Hà Nội,Regular,organic
+CUST_0465,2025-02-16,Cần Thơ,New,paid_search
+CUST_0466,2025-02-14,Hải Phòng,Regular,social_media
+CUST_0467,2025-08-22,TP.HCM,Regular,email
+CUST_0468,2025-03-16,TP.HCM,New,referral
+CUST_0469,2025-06-15,Hà Nội,Regular,email
+CUST_0470,2024-06-06,Hà Nội,Regular,social_media
+CUST_0471,2024-06-06,TP.HCM,Regular,social_media
+CUST_0472,2025-01-01,Cần Thơ,Regular,social_media
+CUST_0473,2024-10-04,Cần Thơ,Regular,email
+CUST_0474,2024-06-02,Hà Nội,VIP,paid_search
+CUST_0475,2025-01-11,Hà Nội,Regular,social_media
+CUST_0476,2024-12-28,Đà Nẵng,Regular,paid_search
+CUST_0477,2025-02-11,Hà Nội,Regular,email
+CUST_0478,2025-08-26,TP.HCM,Regular,paid_search
+CUST_0479,2025-01-19,Đà Nẵng,New,organic
+CUST_0480,2025-03-09,TP.HCM,Regular,organic
+CUST_0481,2025-01-10,Cần Thơ,VIP,paid_search
+CUST_0482,2024-08-24,Đà Nẵng,New,organic
+CUST_0483,2024-06-22,Đà Nẵng,Regular,referral
+CUST_0484,2024-09-28,Hà Nội,VIP,email
+CUST_0485,2025-06-06,Đà Nẵng,Regular,social_media
+CUST_0486,2025-01-09,TP.HCM,Regular,organic
+CUST_0487,2025-08-11,TP.HCM,Regular,email
+CUST_0488,2025-07-24,Hải Phòng,New,paid_search
+CUST_0489,2025-05-21,TP.HCM,New,referral
+CUST_0490,2025-09-26,TP.HCM,VIP,social_media
+CUST_0491,2025-12-19,Cần Thơ,Regular,paid_search
+CUST_0492,2024-10-10,Đà Nẵng,New,paid_search
+CUST_0493,2025-03-23,TP.HCM,New,email
+CUST_0494,2024-06-05,Đà Nẵng,New,paid_search
+CUST_0495,2025-11-04,TP.HCM,VIP,paid_search
+CUST_0496,2024-07-25,TP.HCM,New,social_media
+CUST_0497,2024-11-21,Hà Nội,Regular,paid_search
+CUST_0498,2024-11-09,TP.HCM,New,organic
+CUST_0499,2025-05-08,Cần Thơ,New,organic
+CUST_0500,2024-10-07,Hà Nội,Regular,social_media
+CUST_0501,2025-04-29,TP.HCM,New,organic
+CUST_0502,2025-07-20,Hà Nội,Regular,organic
+CUST_0503,2024-07-17,Hà Nội,VIP,social_media
+CUST_0504,2025-09-06,Hải Phòng,Regular,paid_search
+CUST_0505,2025-09-05,Hải Phòng,New,referral
+CUST_0506,2025-06-27,TP.HCM,Regular,paid_search
+CUST_0507,2025-01-17,TP.HCM,Regular,paid_search
+CUST_0508,2024-09-18,Hà Nội,New,organic
+CUST_0509,2024-06-28,TP.HCM,New,paid_search
+CUST_0510,2025-03-13,TP.HCM,Regular,paid_search
+CUST_0511,2025-10-09,Cần Thơ,New,social_media
+CUST_0512,2025-10-21,Hải Phòng,New,organic
+CUST_0513,2024-08-31,TP.HCM,Regular,social_media
+CUST_0514,2025-09-13,Hải Phòng,Regular,social_media
+CUST_0515,2025-09-24,TP.HCM,New,paid_search
+CUST_0516,2024-10-24,Hà Nội,Regular,paid_search
+CUST_0517,2024-10-15,Hà Nội,Regular,organic
+CUST_0518,2025-11-22,TP.HCM,New,paid_search
+CUST_0519,2025-07-23,Cần Thơ,New,referral
+CUST_0520,2025-05-09,Đà Nẵng,New,organic
+CUST_0521,2025-12-03,TP.HCM,Regular,social_media
+CUST_0522,2025-04-09,Hà Nội,New,paid_search
+CUST_0523,2024-11-30,TP.HCM,New,organic
+CUST_0524,2025-01-09,Hà Nội,New,social_media
+CUST_0525,2024-11-07,Hải Phòng,Regular,social_media
+CUST_0526,2025-12-21,TP.HCM,New,social_media
+CUST_0527,2024-08-21,Cần Thơ,New,organic
+CUST_0528,2024-12-22,TP.HCM,VIP,email
+CUST_0529,2025-07-22,Hà Nội,Regular,paid_search
+CUST_0530,2024-09-22,TP.HCM,VIP,organic
+CUST_0531,2024-10-02,Hà Nội,New,referral
+CUST_0532,2025-08-05,Hải Phòng,VIP,email
+CUST_0533,2024-07-25,Đà Nẵng,New,organic
+CUST_0534,2025-06-12,Hà Nội,Regular,paid_search
+CUST_0535,2025-10-01,TP.HCM,New,organic
+CUST_0536,2025-02-20,Đà Nẵng,Regular,paid_search
+CUST_0537,2025-03-26,Đà Nẵng,VIP,paid_search
+CUST_0538,2025-06-18,Đà Nẵng,VIP,organic
+CUST_0539,2024-08-18,Hà Nội,Regular,organic
+CUST_0540,2025-08-15,Hà Nội,New,paid_search
+CUST_0541,2025-11-19,Hải Phòng,New,social_media
+CUST_0542,2025-12-07,TP.HCM,Regular,organic
+CUST_0543,2024-07-21,Hà Nội,New,organic
+CUST_0544,2025-02-14,Đà Nẵng,Regular,organic
+CUST_0545,2025-01-04,Hải Phòng,New,organic
+CUST_0546,2024-08-04,Hà Nội,VIP,email
+CUST_0547,2024-08-28,Đà Nẵng,Regular,organic
+CUST_0548,2025-09-14,TP.HCM,VIP,email
+CUST_0549,2025-12-02,Hà Nội,New,organic
+CUST_0550,2025-08-14,Hà Nội,Regular,email
+CUST_0551,2024-07-16,Đà Nẵng,VIP,paid_search
+CUST_0552,2024-08-18,Hà Nội,New,paid_search
+CUST_0553,2025-12-10,TP.HCM,New,paid_search
+CUST_0554,2025-10-18,TP.HCM,New,paid_search
+CUST_0555,2025-08-23,TP.HCM,New,email
+CUST_0556,2025-09-14,Hải Phòng,New,organic
+CUST_0557,2025-09-24,TP.HCM,New,email
+CUST_0558,2025-08-02,TP.HCM,VIP,social_media
+CUST_0559,2024-09-29,TP.HCM,New,organic
+CUST_0560,2025-10-31,Đà Nẵng,New,organic
+CUST_0561,2024-07-22,TP.HCM,New,paid_search
+CUST_0562,2025-08-27,Hà Nội,Regular,referral
+CUST_0563,2024-10-05,TP.HCM,New,email
+CUST_0564,2024-07-17,Hải Phòng,New,paid_search
+CUST_0565,2024-07-18,Đà Nẵng,New,paid_search
+CUST_0566,2025-07-16,TP.HCM,New,social_media
+CUST_0567,2024-11-04,TP.HCM,New,paid_search
+CUST_0568,2024-07-13,Hải Phòng,Regular,social_media
+CUST_0569,2024-12-05,TP.HCM,New,referral
+CUST_0570,2025-09-02,TP.HCM,VIP,paid_search
+CUST_0571,2024-08-22,TP.HCM,New,paid_search
+CUST_0572,2024-11-22,Hà Nội,New,paid_search
+CUST_0573,2025-11-13,Hà Nội,New,email
+CUST_0574,2025-10-17,Đà Nẵng,New,referral
+CUST_0575,2024-10-11,TP.HCM,New,organic
+CUST_0576,2025-04-28,Hà Nội,New,organic
+CUST_0577,2025-12-22,Đà Nẵng,VIP,organic
+CUST_0578,2025-06-01,TP.HCM,Regular,social_media
+CUST_0579,2025-03-14,TP.HCM,New,paid_search
+CUST_0580,2024-06-25,Đà Nẵng,New,paid_search
+CUST_0581,2025-07-30,Hà Nội,New,paid_search
+CUST_0582,2024-07-03,TP.HCM,VIP,social_media
+CUST_0583,2025-10-19,Hà Nội,New,email
+CUST_0584,2025-07-08,Hà Nội,Regular,paid_search
+CUST_0585,2024-10-18,TP.HCM,New,organic
+CUST_0586,2025-10-16,Đà Nẵng,Regular,social_media
+CUST_0587,2024-07-21,Đà Nẵng,New,paid_search
+CUST_0588,2025-10-31,TP.HCM,New,social_media
+CUST_0589,2024-10-16,Hà Nội,New,social_media
+CUST_0590,2024-11-18,Đà Nẵng,New,email
+CUST_0591,2025-08-29,Đà Nẵng,New,paid_search
+CUST_0592,2024-09-20,Hà Nội,New,organic
+CUST_0593,2024-06-26,TP.HCM,New,organic
+CUST_0594,2024-10-24,Hà Nội,VIP,paid_search
+CUST_0595,2025-11-22,TP.HCM,Regular,social_media
+CUST_0596,2025-08-24,Cần Thơ,New,social_media
+CUST_0597,2025-02-10,Hà Nội,Regular,email
+CUST_0598,2024-07-20,Đà Nẵng,New,email
+CUST_0599,2024-10-30,Hải Phòng,Regular,referral
+CUST_0600,2025-08-18,TP.HCM,New,organic
+CUST_0601,2024-12-12,Hà Nội,New,organic
+CUST_0602,2025-05-17,Hà Nội,Regular,paid_search
+CUST_0603,2024-07-12,Hà Nội,VIP,paid_search
+CUST_0604,2025-02-02,Hải Phòng,VIP,social_media
+CUST_0605,2024-07-01,Cần Thơ,New,organic
+CUST_0606,2024-06-04,Hải Phòng,New,social_media
+CUST_0607,2025-04-06,TP.HCM,New,social_media
+CUST_0608,2024-12-17,Đà Nẵng,New,referral
+CUST_0609,2025-12-30,TP.HCM,New,social_media
+CUST_0610,2025-04-14,Đà Nẵng,VIP,referral
+CUST_0611,2025-04-27,TP.HCM,New,email
+CUST_0612,2025-12-22,Hà Nội,New,social_media
+CUST_0613,2025-01-06,Hà Nội,New,organic
+CUST_0614,2024-11-15,TP.HCM,Regular,email
+CUST_0615,2024-07-04,TP.HCM,New,paid_search
+CUST_0616,2024-11-18,TP.HCM,New,organic
+CUST_0617,2025-07-09,TP.HCM,Regular,social_media
+CUST_0618,2025-01-17,Hà Nội,New,organic
+CUST_0619,2024-08-29,TP.HCM,New,referral
+CUST_0620,2025-05-05,Hà Nội,Regular,social_media
+CUST_0621,2025-12-02,Hà Nội,New,organic
+CUST_0622,2024-07-19,TP.HCM,New,social_media
+CUST_0623,2025-07-22,TP.HCM,New,paid_search
+CUST_0624,2025-03-30,Hải Phòng,New,paid_search
+CUST_0625,2025-09-22,Hà Nội,Regular,email
+CUST_0626,2025-04-13,TP.HCM,New,organic
+CUST_0627,2025-01-27,TP.HCM,Regular,organic
+CUST_0628,2025-05-04,TP.HCM,New,social_media
+CUST_0629,2025-11-26,Hà Nội,Regular,email
+CUST_0630,2025-02-27,TP.HCM,New,social_media
+CUST_0631,2025-05-17,Hà Nội,New,social_media
+CUST_0632,2025-04-19,TP.HCM,Regular,organic
+CUST_0633,2024-10-23,Hà Nội,New,social_media
+CUST_0634,2024-12-25,Hà Nội,New,referral
+CUST_0635,2024-11-27,TP.HCM,New,paid_search
+CUST_0636,2024-11-22,TP.HCM,New,email
+CUST_0637,2025-02-07,TP.HCM,VIP,paid_search
+CUST_0638,2025-09-28,TP.HCM,New,organic
+CUST_0639,2024-12-31,TP.HCM,Regular,paid_search
+CUST_0640,2025-11-03,TP.HCM,New,email
+CUST_0641,2025-11-20,Hải Phòng,New,organic
+CUST_0642,2025-11-06,TP.HCM,Regular,referral
+CUST_0643,2024-11-15,Hà Nội,Regular,organic
+CUST_0644,2025-06-12,TP.HCM,New,social_media
+CUST_0645,2025-10-11,TP.HCM,Regular,organic
+CUST_0646,2025-05-09,TP.HCM,New,paid_search
+CUST_0647,2025-06-08,Hà Nội,New,organic
+CUST_0648,2025-04-08,Hải Phòng,New,paid_search
+CUST_0649,2025-06-17,TP.HCM,New,email
+CUST_0650,2025-07-15,Hà Nội,Regular,social_media

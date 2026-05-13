@@ -1,0 +1,7 @@
+﻿check_name,description,issue_count,status
+missing_customer_id_orders,order_id không có customer_id,0,✅ PASS
+missing_customer_profile,customer_id trong orders không tồn tại trong customers,0,✅ PASS
+order_date_before_signup,order_date < signup_date (không hợp lý về thời gian),0,✅ PASS
+negative_net_revenue,net_revenue âm,0,✅ PASS
+completed_zero_revenue,status = completed nhưng net_revenue <= 0,0,✅ PASS
+unknown_order_product,product_id trong order_items không tồn tại trong products,0,✅ PASS
